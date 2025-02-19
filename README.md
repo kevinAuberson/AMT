@@ -17,3 +17,4 @@ Applications multi-tiers 2024-2025
 | Labo 1 | 5.1 |
 | Labo 2 | 5.0 |
 | Labo 3 | 5.1 |
+|Examen| 4.4|
